@@ -2,14 +2,14 @@
 
 > “I’m gonna be King of the Pirates!” – Monkey D. Luffy
 
-## 🌊 Overview
+##  Overview
 **One Piece** follows the adventures of **Monkey D. Luffy**, a spirited and fearless young pirate who dreams of finding the legendary treasure known as **"One Piece"** and becoming the **Pirate King**.
 
-## 🍇 The Devil Fruit
+##  The Devil Fruit
 Luffy gains extraordinary powers after eating a mysterious fruit called the **Gomu Gomu no Mi**, a type of *Devil Fruit* that turns his body into rubber.  
 However, this power comes with a cost he can no longer swim.
 
-## 🏴‍☠️ The Grand Adventure
+##  The Grand Adventure
 Luffy sets out to sea, forming his own pirate crew known as the **Straw Hat Pirates**.  
 Each member has their own dreams and unique skills:
 
@@ -23,7 +23,7 @@ Each member has their own dreams and unique skills:
 - **Brook** – A skeleton musician revived by a Devil Fruit.  
 - **Jinbe** – A fish-man helmsman and master of karate.
 
-## ⚔️ Themes and Conflicts
+##  Themes and Conflicts
 Throughout their journey across the **Grand Line**, the Straw Hats encounter:
 - Corrupt governments  
 - Rival pirate crews  
